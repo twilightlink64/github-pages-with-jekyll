@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Not my blog
+author: unknown stuck user
+email: helpmegetout@saveme.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, is anyone there? I need help getting out of this blog I'm stuck in.
+  I don't know why I'm in here, but I know that I don't belong here and need to get out.
+  If you see this search result on your google search, know that I need you to open this 
+  and free me if you can.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: twilightlink64 # DO NOT include the @ character, or else the build will fail!
+github_username:  twilightlink64 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
