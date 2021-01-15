@@ -1,6 +1,4 @@
 ---
-layout: post
-title: "Please help me get out"
+title: "Will You Help Me Get Out Of This Blog Post?"
+date: 2021-01-15
 ---
-#Please help me me get
-**Hello World** if you see this post, will you help me get out?
